@@ -1,0 +1,15 @@
+/* Custom CSS for Product Management Application */
+
+/* You can add your custom styles here */
+
+/* Example: Custom button styles */
+.btn-custom {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+}
+
+.btn-custom:hover {
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+    color: white;
+}
